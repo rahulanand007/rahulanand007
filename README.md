@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahulanand007
-- 👀 I’m interested in ...learning and implementing that on projects
-- 🌱 I’m currently learning JAVA...
+- 👀 I’m interested in learning and implementing that on projects
+- 🌱 I’m currently learning JAVA + Web Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... rahul03061998@gmail.com
 
